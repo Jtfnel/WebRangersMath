@@ -1,0 +1,23 @@
+{
+  "generator-template-ui5-project": {
+    "projectname": "WebRangersMath",
+    "namespaceUI5": "com.epiuse",
+    "enableFPM": false,
+    "platform": "Static webserver",
+    "viewtype": "XML",
+    "ui5libs": "Local resources (SAPUI5)",
+    "newdir": true,
+    "initrepo": true,
+    "namespaceURI": "com/epiuse",
+    "uimodules": [
+      "uimodule"
+    ],
+    "opa5Journeys": [
+      "Main"
+    ],
+    "opa5pos": [
+      "Main"
+    ],
+    "setupCompleted": true
+  }
+}
